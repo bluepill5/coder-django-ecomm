@@ -26,6 +26,10 @@ Las principales tecnologías usadas son:
 
 ![Demo](https://user-images.githubusercontent.com/4382527/154098711-f61f74de-2242-46c7-9e32-64ad1ae6af7b.gif)
 
+## Registrar nuevo usuario
+
+![User](https://user-images.githubusercontent.com/4382527/154109563-3a54ae74-ec77-47b2-ac13-0bf68d8db1fb.gif)
+
 ## Administrando productos y categorías
 
 ![Admin](https://user-images.githubusercontent.com/4382527/154100894-bc045307-0861-4b17-b347-9551606b74ec.gif)
