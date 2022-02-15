@@ -1,0 +1,9 @@
+h1 {
+    color: rgb(46, 44, 45);
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
