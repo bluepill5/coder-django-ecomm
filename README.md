@@ -24,6 +24,7 @@ Las principales tecnologías usadas son:
 
 ## Demo
 
+![Demo](https://user-images.githubusercontent.com/4382527/154098711-f61f74de-2242-46c7-9e32-64ad1ae6af7b.gif)
 
 
 
