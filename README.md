@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-La idea del es crear utilizando un Ecommerce a Django para el backend.
+La idea del proyecto es crear utilizando a Django para el backend un Ecommerce .
 
 ## Tecnologías usadas
 
